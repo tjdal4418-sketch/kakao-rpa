@@ -1,0 +1,5 @@
+pywinauto
+pyperclip
+pyautogui
+pillow
+winocr

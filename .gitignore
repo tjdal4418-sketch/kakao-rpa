@@ -1,0 +1,5 @@
+contacts.json
+__pycache__/
+*.pyc
+.env
+last_search.png
