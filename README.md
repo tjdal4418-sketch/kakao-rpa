@@ -6,7 +6,6 @@
 
 ![demo](docs/demo.gif)
 
-<!-- TODO: docs/demo.gif 추가 (개인정보가 보이지 않는 테스트 계정/나와의 채팅 화면으로 녹화) -->
 
 ## 만든 이유
 
